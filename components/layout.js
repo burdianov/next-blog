@@ -53,6 +53,7 @@ function Layout({ children, home }) {
             </h2>
           </>
         )}
+        <h1>Test modification...</h1>
       </header>
       <main>{children}</main>
       {!home && (
